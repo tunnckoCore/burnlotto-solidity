@@ -1,0 +1,8 @@
+{
+  "name": "burnlotto",
+  "license": "Apache-2.0",
+  "description": "BurnLotto is a decentralized lottery for any ERC-20 Burnable token on Ethereum blockchain.",
+  "author": "Charlike Mike Reagent <dev@tunnckocore.com> (@wgw_eth)",
+  "type": "module",
+  "version": "0.1.0"
+}
